@@ -1,0 +1,14 @@
+      :root {
+          --warna-bg: #425a86;
+      }
+
+      body {
+          background-image: url('../img/background.jpg');
+          background-position: center;
+          backdrop-filter: blur(3px);      
+        }
+
+      .bg-merah {
+          background-color: var(--warna-bg);
+          
+      }
